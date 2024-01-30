@@ -13,8 +13,8 @@ function App() {
       <h1>useEffect() - Practice</h1>
       {/* Uncomment only one task at a time */}
 
-      <Task1 />
-      {/* <Task2 /> */}
+      {/* <Task1 /> */}
+      <Task2 />
       {/* <Task3 /> */}
       {/* <Task4 /> */}
     </div>
